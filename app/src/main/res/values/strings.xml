@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TomotoApp</string>
+    <string name="pred_result_nothing">Your Prediction Result: Not Predicted</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="permission_read">Permission granted now you can read the storage</string>
+    <string name="permission_no">Oops you just denied the permission</string>
+    <string name="upload_message">Upload photo to get prediction for \n <b>Tomato</b> </string>
+    <string name="inference">Inference</string>
+</resources>
